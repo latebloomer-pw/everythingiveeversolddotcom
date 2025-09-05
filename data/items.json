@@ -1,44 +1,39 @@
 [
-  {
-    "id": "1",
-    "title": "Vintage Leather Jacket",
-    "description": "Classic brown leather jacket from the 80s. Some wear on the sleeves but still in great condition. Perfect for motorcycle rides or just looking cool.",
-    "price": 125.0,
-    "image": "/placeholder.svg?height=420&width=640"
-  },
-  {
-    "id": "2",
-    "title": "MacBook Pro 13-inch",
-    "description": "2019 MacBook Pro in excellent condition. 256GB SSD, 8GB RAM. Comes with original charger and box. Minor scratches on bottom.",
-    "price": 899.99,
-    "image": "/placeholder.svg?height=420&width=640"
-  },
-  {
-    "id": "3",
-    "title": "Ikea Dining Table",
-    "description": "White IKEA dining table seats 4 people comfortably. A few small marks on surface but very sturdy. Must pick up.",
-    "price": 75.0,
-    "image": "/placeholder.svg?height=420&width=640"
-  },
-  {
-    "id": "4",
-    "title": "Nintendo Switch Console",
-    "description": "Barely used Nintendo Switch with Joy-Con controllers. Includes dock, cables, and 3 games: Mario Kart, Zelda, and Super Mario Odyssey.",
-    "price": 280.0,
-    "image": "/placeholder.svg?height=420&width=640"
-  },
-  {
-    "id": "5",
-    "title": "Vintage Record Player",
-    "description": "1970s turntable in working condition. Belt drive, needs new needle but otherwise great. Perfect for vinyl enthusiasts.",
-    "price": 150.0,
-    "image": "/placeholder.svg?height=420&width=640"
-  },
-  {
-    "id": "6",
-    "title": "Mountain Bike",
-    "description": "Trek mountain bike, 21 speeds, medium frame. Good condition with some rust on chain. Great for trails and city riding.",
-    "price": 200.0,
-    "image": "/placeholder.svg?height=420&width=640"
-  }
+  {"id":"1","title":"Big Blue Bar","description":"School of Ikea, c. 2015.","price":200.0,"image":"images/bbb.png"},
+  {"id":"2","title":"Euclid Approved Desk","description":"Artist unknown, date unknown.","price":80.0,"image":"images/euclid-desk.png"},
+  {"id":"3","title":"The Griddler Jr","description":"Cuisinart, c. 2023.","price":40.0,"image":"images/gridjr.png"},
+  {"id":"4","title":"Highly Karmic, Crystal Girlie Approved Filing Cabinet","description":"Artist unknown, date unknown.","price":50.0,"image":"images/crystal.png"},
+  {"id":"5","title":"A Box of 10 Photographs","description":"Diane Arbus, dates vary.","price":1000800.0,"image":"images/10-arbus.png"},
+  {"id":"6","title":"Abstraktes Bild","description":"Gerhard Richter, 1994.","price":38175000.0,"image":"images/bild-richter.png"},
+  {"id":"7","title":"All I’ve Ever Heard","description":"Richard Prince, 1989.","price":3420000.0,"image":"images/heard1-prince.png"},
+  {"id":"8","title":"All I’ve Ever Heard","description":"Richard Prince, 1988.","price":2532500.0,"image":"images/heard2-prince.png"},
+  {"id":"9","title":"Farina","description":"Jean-Michel Basquiat, 1984.","price":7020000.0,"image":"images/farina-jmb.png"},
+  {"id":"10","title":"\"Big Nude III\" (Variation), Paris","description":"Helmut Newton, 1980 (printed 1990s).","price":2340000.0,"image":"images/bignude-newton.png"},
+  {"id":"11","title":"El Gran Espectáculo (The Nile)","description":"Jean-Michel Basquiat, 1983.","price":67110000.0,"image":"images/espec-jmb.png"},
+  {"id":"12","title":"Swamped","description":"Peter Doig, 1990.","price":39862500.0,"image":"images/swamp-doig.png"},
+  {"id":"13","title":"The Guilt of Gold Teeth","description":"Jean-Michel Basquiat, 1982.","price":40000000.0,"image":"images/ggt-jmb.png"},
+  {"id":"14","title":"Untitled (March 5th) #2","description":"Felix Gonzalez-Torres, 1991.","price":607500.0,"image":"images/untitled2-fgt.png"},
+  {"id":"15","title":"Sunflowers from Petrol Station","description":"Banksy, 2005.","price":14558000.0,"image":"images/sun-banksy.png"},
+  {"id":"16","title":"Untitled (The Beautiful and the Damned)","description":"Cecily Brown, 2013.","price":6705000.0,"image":"images/untitled-brown.png"},
+  {"id":"17","title":"Untitled (Divided Rectangle)","description":"Vija Celmins, 1986–1987.","price":2228000.0,"image":"images/divrect-celmins.png"},
+  {"id":"18","title":"Stick","description":"Simone Leigh, 2019.","price":2712000.0,"image":"images/stick-leigh.png"},
+  {"id":"19","title":"Untitled","description":"Keith Haring, 1982.","price":5820000.0,"image":"images/untitled-haring.png"},
+  {"id":"20","title":"Jim Beam – J.B. Turner Train","description":"Jeff Koons, 1986.","price":16992500.0,"image":"images/jbtrain-koons.png"},
+  {"id":"21","title":"Loose Screw","description":"Anna Weyant, 2020.","price":1500000.0,"image":"images/loose-weyant.png"},
+  {"id":"22","title":"Untitled","description":"Christopher Wool, 1988.","price":8405000.0,"image":"images/untitled-wool.png"},
+  {"id":"23","title":"Living Architecture: Casa Batlló","description":"Refik Anadol, 2022.","price":1380000.0,"image":"images/livarch-anadol.png"},
+  {"id":"24","title":"Tiffany Value Meal","description":"Tom Sachs, 1998.","price":302400.0,"image":"images/tvm-sachs.png"},
+  {"id":"25","title":"Antelope Attack Near Gas Pipe 2","description":"Adrian Ghenie, 2019.","price":2220000.0,"image":"images/antelope-ghenie.png"},
+  {"id":"26","title":"Portrait of a Lady","description":"Ewa Juszkiewicz, 2019.","price":1560000.0,"image":"images/poal-jusk.png"},
+  {"id":"27","title":"Green Garden Landscape Pot","description":"Jonas Wood, 2016.","price":3060000.0,"image":"images/gglp-wood.png"},
+  {"id":"28","title":"Green Room","description":"Matthew Wong, 2017.","price":5340000.0,"image":"images/room-wong.png"},
+  {"id":"29","title":"Flash in Naples","description":"Jean-Michel Basquiat, 1983.","price":19825000.0,"image":"images/flash-jmb.png"},
+  {"id":"30","title":"Girl and Boy with Driver","description":"Salman Toor, 2013.","price":882000.0,"image":"images/gbdrive-toor.png"},
+  {"id":"31","title":"Les Poseuses (Petite version)","description":"Georges Seurat, 1888.","price":149240000.0,"image":"images/pose-seurat.png"},
+  {"id":"32","title":"Human One","description":"Beeple, 2021.","price":28985000.0,"image":"images/h1-beeple.png"},
+  {"id":"33","title":"Mary Poppins Bag-esque Dresser","description":"Artist unknown, year unknown.","price":225.0,"image":"images/mpdresser.png"},
+  {"id":"34","title":"Overperforming Loveseat","description":"CB2, year unknown.","price":150.0,"image":"images/loveseat.png"},
+  {"id":"35","title":"MCM Anti-Hangover Bar","description":"Artist unknown, c. 1980.","price":150.0,"image":"images/antihbar.png"},
+  {"id":"36","title":"Small Vintage Desk (upon which I wrote my Magnum Opus)","description":"Artist unknown, year unknown.","price":325.0,"image":"images/opustable.png"},
+  {"id":"37","title":"Lane Full Cedar Chest (Peg Leg)","description":"Lane Furniture, date unknown (Virginia).","price":250.0,"image":"images/chest.png"}
 ]
