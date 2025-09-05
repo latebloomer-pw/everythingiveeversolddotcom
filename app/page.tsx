@@ -125,7 +125,7 @@ export default function Home() {
             <p className="text-base leading-relaxed">
               Welcome to my website. Click around, have some fun.
 
-              <a href="linkedin.com/in/agcthinks" About Me/>
+              <a href="linkedin.com/in/agcthinks">About Me</a>
             </p>
           </div>
         </div>
