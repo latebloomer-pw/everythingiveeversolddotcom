@@ -14,7 +14,7 @@ export function DecisionBar({ onReject, onApprove }: DecisionBarProps) {
         style={{ backgroundColor: "#ef4444", color: "#ffffff" }}
         aria-label="Reject item"
       >
-        Oh my! No
+        Oh my! No.
       </button>
       <button
         onClick={onApprove}
@@ -22,7 +22,7 @@ export function DecisionBar({ onReject, onApprove }: DecisionBarProps) {
         style={{ backgroundColor: "#22c55e", color: "#ffffff" }}
         aria-label="Approve item"
       >
-        Yes that's nice
+        Yes, that's nice.
       </button>
     </div>
   )
