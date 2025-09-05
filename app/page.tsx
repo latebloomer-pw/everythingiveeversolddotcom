@@ -123,8 +123,9 @@ export default function Home() {
               </button>
             </div>
             <p className="text-base leading-relaxed">
-              Welcome to everythingiveeversolddotcom! Swipe or click to browse through items. Approve the ones you like
-              to add their price to your running total. It's like window shopping, but more fun! 🛍️
+              Welcome to my website. Click around, have some fun.
+
+              <a href="linkedin.com/in/agcthinks" About Me/>
             </p>
           </div>
         </div>
