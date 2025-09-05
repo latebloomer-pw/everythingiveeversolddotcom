@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Vintage Leather Jacket",
+    "description": "Classic brown leather jacket from the 80s. Some wear on the sleeves but still in great condition. Perfect for motorcycle rides or just looking cool.",
+    "price": 125.0,
+    "image": "/placeholder.svg?height=420&width=640"
+  },
+  {
+    "id": "2",
+    "title": "MacBook Pro 13-inch",
+    "description": "2019 MacBook Pro in excellent condition. 256GB SSD, 8GB RAM. Comes with original charger and box. Minor scratches on bottom.",
+    "price": 899.99,
+    "image": "/placeholder.svg?height=420&width=640"
+  },
+  {
+    "id": "3",
+    "title": "Ikea Dining Table",
+    "description": "White IKEA dining table seats 4 people comfortably. A few small marks on surface but very sturdy. Must pick up.",
+    "price": 75.0,
+    "image": "/placeholder.svg?height=420&width=640"
+  },
+  {
+    "id": "4",
+    "title": "Nintendo Switch Console",
+    "description": "Barely used Nintendo Switch with Joy-Con controllers. Includes dock, cables, and 3 games: Mario Kart, Zelda, and Super Mario Odyssey.",
+    "price": 280.0,
+    "image": "/placeholder.svg?height=420&width=640"
+  },
+  {
+    "id": "5",
+    "title": "Vintage Record Player",
+    "description": "1970s turntable in working condition. Belt drive, needs new needle but otherwise great. Perfect for vinyl enthusiasts.",
+    "price": 150.0,
+    "image": "/placeholder.svg?height=420&width=640"
+  },
+  {
+    "id": "6",
+    "title": "Mountain Bike",
+    "description": "Trek mountain bike, 21 speeds, medium frame. Good condition with some rust on chain. Great for trails and city riding.",
+    "price": 200.0,
+    "image": "/placeholder.svg?height=420&width=640"
+  }
+]
