@@ -122,11 +122,43 @@ export default function Home() {
                 ×
               </button>
             </div>
-            <p className="text-base leading-relaxed">
-              Welcome to my website. Click around, have some fun.
+            <div className="text-base leading-relaxed space-y-4">
+              <p>This is the website of <strong className="text-blue-600">Andrés González Cardona</strong>.</p>
+              <p>Andrés a world-class salesman, project manager and solver of previously unsolveable problems.</p>
+              <p>Andrés is currently <a className="text-green-600" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/agcthinks/">available for hire <strong className="animate-pulse text-green">here.</strong></a></p>
 
-              <a href="linkedin.com/in/agcthinks">About Me</a>
-            </p>
+              <div className="mt-6 pt-4 border-t border-gray-200">
+                <h3 className="text-sm font-semibold text-gray-600 mb-3 text-center">Trusted by</h3>
+                <div className="flex justify-center items-center space-x-6">
+                  <img 
+                    src="/images/christies.jpg" 
+                    alt="Christie's" 
+                    className="h-10"
+                  />
+                  <img 
+                    src="/images/voltus.jpg" 
+                    alt="Voltus" 
+                    className="h-10 "
+                  />
+                  <img 
+                    src="/images/ebay-logo.webp" 
+                    alt="eBay" 
+                    className="h-10 "
+                  />
+                  <img 
+                    src="/images/enpower.jpg" 
+                    alt="Enpower" 
+                    className="h-10 "
+                  />
+                </div>
+              </div>
+
+            
+            
+          
+
+
+            </div>
           </div>
         </div>
       )}
