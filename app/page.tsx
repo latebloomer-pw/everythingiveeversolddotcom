@@ -133,22 +133,22 @@ export default function Home() {
                   <img 
                     src="/images/christies.jpg" 
                     alt="Christie's" 
-                    className="h-10"
+                    className="lg:h-10 h-9"
                   />
                   <img 
                     src="/images/voltus.jpg" 
                     alt="Voltus" 
-                    className="h-10 "
+                    className="lg:h-10 h-5"
                   />
                   <img 
                     src="/images/ebay-logo.webp" 
                     alt="eBay" 
-                    className="h-10 "
+                    className="h-10"
                   />
                   <img 
                     src="/images/enpower.jpg" 
                     alt="Enpower" 
-                    className="h-10 "
+                    className="lg:h-10 h-5"
                   />
                 </div>
               </div>
